@@ -1,0 +1,63 @@
+body {
+            background-color: azure;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+
+        h1 {
+            text-align: center;
+            color: darkgreen;
+        }
+
+        p {
+            text-align: justify;
+            width: fit-content;
+        }
+
+        .center {
+            width: 50vh;
+            display: block;
+            margin-right: auto;
+            margin-left: 10px;
+            float: right;
+        }
+
+
+        .foto {
+            background-color: black;
+        }
+
+        .foto img {
+            margin: auto;
+            width: 23%;
+        }
+
+        .promo {
+            text-align: center;
+            color: red;
+        }
+
+        .cod {
+            align-items: center;
+            width: 80%;
+            margin-right: auto;
+            margin-left: auto;
+        }
+
+        .cod p {
+            background-color: turquoise;
+            text-align: center;
+            border: 1px dotted black;
+            font-weight: bold;
+            color: blue;
+            margin: 0 auto;
+        }
+
+        #tombol {
+            background-color: orange;
+            color: red;
+            text-align: center;
+            font-weight: bold;
+            display: block;
+            margin-right: auto;
+            margin-left: auto;
+        }
